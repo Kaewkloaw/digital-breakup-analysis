@@ -38,10 +38,10 @@
  
 | 🌸 Team Member | 🌷 Responsibility |
 | :--- | :--- |
-| **Punchaya Chancharoen** | **** |
-| **Chatchanan Boonpa** | **** |
-| **Pratsakorn Kittichadapong** | **** |
-| **Rattipong Sakunjeen** | **** |
-| **Chanakan Jitkasikorn** | **** |
-| **Tharaya Tabloi** | **** |
+| **Punchaya Chancharoen** | **Demographics Analysis & Emotion Detection & Slide** |
+| **Chatchanan Boonpa** | **Scraping & Demographics Analysis & Report** |
+| **Pratsakorn Kittichadapong** | **Emotion Detection & Report** |
+| **Rattipong Sakunjeen** | **Scraping & Website & Report** |
+| **Chanakan Jitkasikorn** | **Preparation Data & Demographics Analysis & Report** |
+| **Tharaya Tabloi** | **Preparation Data & Report** |
 </div>
