@@ -17,6 +17,13 @@
 
 </div>
 
+<div align="center">
+  <img width="49%" alt="Movie Preview 1" src="https://github.com/user-attachments/assets/b7d3a3c3-bc57-477a-bf6c-86cc2095a9b0"/>
+  <img width="49%" alt="Movie Preview 2" src="https://github.com/user-attachments/assets/7f1a218b-1869-4adb-ba1b-a2de0693cda6"/>
+  <img width="49%" alt="Movie Preview 3" src="https://github.com/user-attachments/assets/a4034ec6-eb6c-41b9-a3b4-c8addadd7e06"/>
+  <img width="49%" alt="Movie Preview 4" src="https://github.com/user-attachments/assets/042fd4c4-02a3-409c-8e58-ae4b547df1ab"/>
+</div>
+
 ## 📄 Project Description
 <p style="text-align: justify; line-height: 1.6;">
   <strong>The Art of Digital Breaking</strong> is a sophisticated Text Analytics project developed for the <strong>CPE393</strong> course.
